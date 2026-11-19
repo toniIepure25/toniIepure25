@@ -1,0 +1,54 @@
+# Repository metadata — ready to copy
+
+GitHub repository → **About** → **gear icon** → add **Description** and **Topics** → **Save changes**.
+
+## perceptionVSimagination
+**Description**  
+Reproducible fMRI research framework for comparing neural representations of visual perception and mental imagery.
+
+**Topics**  
+`neuroai` `fmri` `mental-imagery` `computational-neuroscience` `neural-decoding` `representation-learning` `reproducible-research` `pytorch`
+
+## FMRI2images
+**Description**  
+fMRI-to-CLIP neural decoding, visual retrieval, and reconstruction experiments using the Natural Scenes Dataset.
+
+**Topics**  
+`neuroai` `fmri` `neural-decoding` `clip` `natural-scenes-dataset` `pytorch` `image-reconstruction` `representation-learning`
+
+## multi-step-agent-research
+**Description**  
+ASAR: structured research-agent prototype with typed planning, tool execution, verification, and experiment tracking.
+
+**Topics**  
+`agentic-ai` `ai-agents` `research-agents` `llm` `verification` `pydantic` `python` `research-software`
+
+## quant-ai-trading-bot
+**Description**  
+Experimental quantitative ML system exploring ensemble models, reinforcement learning, and trading simulation.
+
+**Topics**  
+`machine-learning` `quantitative-finance` `algorithmic-trading` `reinforcement-learning` `ensemble-learning` `time-series` `backtesting` `python`
+
+## JaneStreetKaggleCompetition
+**Description**  
+Jane Street Kaggle challenge: financial time-series prediction, feature engineering, and machine-learning experiments.
+
+**Topics**  
+`kaggle` `jane-street` `machine-learning` `time-series` `feature-engineering` `xgboost` `quantitative-finance` `python`
+
+## Imagina (already has a description and topics)
+**Alternative shorter description (optional)**  
+Local-first cognitive research platform for symbolic scene authoring, behavioral measurement, and auditable human–AI interaction.
+
+**Suggested core topics (optional reduction)**  
+`cognitive-science` `mental-imagery` `human-ai-interaction` `behavioral-research` `research-software` `fastapi` `nextjs` `reproducibility`
+
+## Optional: FX-smc-bot
+**Description**  
+Quantitative FX research framework with event-driven backtesting, risk modeling, ablations, and walk-forward validation.
+
+**Topics**  
+`quantitative-finance` `forex` `algorithmic-trading` `backtesting` `risk-management` `walk-forward-validation` `python`
+
+**Note:** Topics describe the subject; descriptions must not imply performance or scientific validation not supported by reproducible evidence.
